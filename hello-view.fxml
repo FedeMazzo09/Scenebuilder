@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.control.TextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="455.0" prefWidth="635.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.calcolatrice.HelloController">
+   <children>
+      <Button layoutX="54.0" layoutY="272.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="183.0" layoutY="272.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="497.0" layoutY="95.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="389.0" layoutY="95.0" mnemonicParsing="false" text="Button" />
+      <Label layoutX="66.0" layoutY="211.0" text="Label" />
+      <TextField layoutX="66.0" layoutY="60.0" AnchorPane.bottomAnchor="369.0" AnchorPane.leftAnchor="66.0" AnchorPane.rightAnchor="400.0" AnchorPane.topAnchor="60.0" />
+      <TextField layoutX="318.0" layoutY="187.0" />
+   </children>
+</AnchorPane>
